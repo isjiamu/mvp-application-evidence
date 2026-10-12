@@ -56,11 +56,11 @@ The applicant supplied **IMG_2982.JPG** and **IMG_2981.JPG** as on-site records 
 
 **Photo 1 / 现场照片 1 — IMG_2982.JPG**：可见课堂、学员、讲师席“甲木”及笔记本中的部分课件画面。 / Classroom, attendees, the Jiamu speaker nameplate and a partial course slide on the laptop.
 
-![July 2026 State Grid training classroom, IMG_2982, other attendee nameplates masked](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/state-grid/11-july2026-img_2982.png)
+![July 2026 State Grid training classroom, IMG_2982, other attendee nameplates masked](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/26f79c95648b42cd60f5294a2bdb55a7d5cd70d6/assets/state-grid/11-july2026-img_2982.png)
 
 **Photo 2 / 现场照片 2 — IMG_2981.JPG**：可见讲师席“甲木”、教学设备与教室布置。 / Jiamu speaker nameplate, teaching equipment and classroom layout.
 
-![July 2026 State Grid training venue, IMG_2981, other attendee nameplates masked](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/state-grid/12-july2026-img_2981.png)
+![July 2026 State Grid training venue, IMG_2981, other attendee nameplates masked](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/26f79c95648b42cd60f5294a2bdb55a7d5cd70d6/assets/state-grid/12-july2026-img_2981.png)
 
 Other attendees’ nameplate text is covered with solid rectangles; all pixels outside the masks are unchanged relative to the decoded JPEGs. EXIF/GPS metadata is omitted from the public PNG copies. / 其他学员席牌姓名已用实色块遮挡，解码后遮挡区域外像素保持不变；公开 PNG 副本不携带 EXIF/GPS 元数据。
 
