@@ -10,7 +10,7 @@ Each activity has its own public supporting-materials post in [Issues](https://g
 
 | No. | Activity | Materials |
 | --- | --- | --- |
-| 001 | ModelScope Cookbook · 魔搭紫皮书 | [Narrative, screenshots and contribution record](activities/001-modelscope-cookbook.md) |
+| 001 | ModelScope Cookbook · 魔搭紫皮书 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/1) · [Repository copy](activities/001-modelscope-cookbook.md) |
 
 ## Reading the materials
 

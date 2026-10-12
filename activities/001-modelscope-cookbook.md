@@ -26,7 +26,8 @@ Our aim is to help developers move from collecting model links to building appli
 
 Thank you to Liu Cong, the ModelScope team and all our coauthors and contributors. If you have a useful case, a correction or a reproduction note, we welcome your contribution.
 
-Read online: [ModelScope Cookbook](https://modelscope.cn/active/ms-cookbook)  
+Read online: [ModelScope Cookbook](https://modelscope.cn/active/ms-cookbook)
+
 GitHub: [modelscope/ms-cookbook](https://github.com/modelscope/ms-cookbook)
 
 #ModelScope #OpenSource #ModelEvaluation #FineTuning #AIAgents
