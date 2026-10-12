@@ -14,6 +14,7 @@ This is an applicant-prepared evidence index, reviewed on 12 October 2026. Dates
 | 2025-06-26 | Retained media-168.jpg; laptop cover visibly bears 王照华（甲木） and 2025.06.26 / 笔记本课件画面可见姓名和日期 | Dated course preparation and venue context / 带日期的课程与场地背景 |
 | 2026-06-25 | IMG_2683 / IMG_2684 original capture metadata; classroom and 王照华 nameplate; school logo visible / HEIC 原图日期，课堂、王照华席牌和学院标识 | Recent classroom evidence, kept separate from July's course / 近期课堂证据，与 7 月课件分开记录 |
 | 2026-07-24 | Applicant explicitly confirms delivery; original PPTX and matching 171-page PDF carry this cover date / 本人确认实际举行，原 PPTX 与 171 页 PDF 封面日期一致 | Actual session per applicant, approximately 3 hours and 200 participants / 本人确认场次，时长约 3 小时、人数约 200 |
+| July 2026, exact day pending / 2026 年 7 月具体日待核 | IMG_2982.JPG and IMG_2981.JPG, applicant-supplied on-site photos; no capture-date EXIF / 本人提供的现场照片，无拍摄日期 EXIF | July on-site context per applicant; other names masked / 本人确认的 7 月现场背景，其他姓名已遮挡 |
 
 For July 2026 the applicant described the setting as a “labor college” session associated with this training work. The formal host/unit and cohort name remain to be documented. The June photos show 中国劳动关系学院 (China University of Labor Relations) branding; they do not establish that institution's organizational affiliation or the July venue. June photo dates must not be relabeled as 24 July.
 

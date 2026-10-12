@@ -27,3 +27,9 @@ The two July course previews render pages 1 and 83 of the existing PDF. They are
 Useful follow-up: formal unit/cohort names; attendance and time records; 2–3 anonymized questions with the applicant's guidance and resulting revisions; actual template/knowledge-base use; and dated measurement methods. Do not count photographs, slide pages or planned activities as actual mentoring headcount.
 
 建议补正式单位与班次、签到及时间记录、2–3 个脱敏业务问题和本人的指导修改、模板或知识库实际采用情况，以及注明方法和日期的测量记录。照片、课件页数和计划场次不代替真实受指导人数。
+
+## July on-site photo supplement · 7 月现场照片补充
+
+On 12 October 2026 the applicant supplied IMG_2982.JPG and IMG_2981.JPG and explicitly requested the same solid nameplate masking. Both public PNG copies have unchanged pixels outside the masks and no EXIF/GPS. July 2026 attribution is the applicant's statement; neither supplied JPEG has a capture-date EXIF field. See the [July on-site index](04-july2026-onsite-index.md).
+
+2026-10-12 本人提供 IMG_2982.JPG 和 IMG_2981.JPG，并明确要求沿用实色遮挡他人姓名。两张公开 PNG 已核对遮挡外像素不变且不含 EXIF/GPS。2026 年 7 月归属依据本人说明，所提供 JPG 无拍摄日期 EXIF；详见[7 月现场索引](04-july2026-onsite-index.md)。

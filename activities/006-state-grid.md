@@ -48,6 +48,24 @@ Page 83 of the same original course: **Background, Goals, Constraints**. This su
 
 ![Original teaching page on background goals and constraints](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/state-grid/10-july24-2026-prompt-framework.png)
 
+### 2a. July 2026 on-site photos · 2026 年 7 月现场照片
+
+The applicant supplied **IMG_2982.JPG** and **IMG_2981.JPG** as on-site records of State Grid training and guidance in **July 2026**. The supplied JPEGs contain no capture-date EXIF field; the month and activity association come from the applicant. The exact day is not independently established, so these photos are not automatically assigned to 24 July. They document the venue and visible classroom setting, not total attendance, duration or measured learning outcomes.
+
+本人补充提供 **IMG_2982.JPG、IMG_2981.JPG**，确认为 **2026 年 7 月国家电网培训与指导现场资料**。所提供 JPG 不含拍摄日期 EXIF 字段，月份及活动归属依据本人说明；具体拍摄日尚未独立核实，不直接将照片标为 7 月 24 日。照片用于记录现场环境，不单独证明总人数、时长或学习效果。
+
+**Photo 1 / 现场照片 1 — IMG_2982.JPG**：可见课堂、学员、讲师席“甲木”及笔记本中的部分课件画面。 / Classroom, attendees, the Jiamu speaker nameplate and a partial course slide on the laptop.
+
+![July 2026 State Grid training classroom, IMG_2982, other attendee nameplates masked](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/state-grid/11-july2026-img_2982.png)
+
+**Photo 2 / 现场照片 2 — IMG_2981.JPG**：可见讲师席“甲木”、教学设备与教室布置。 / Jiamu speaker nameplate, teaching equipment and classroom layout.
+
+![July 2026 State Grid training venue, IMG_2981, other attendee nameplates masked](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/state-grid/12-july2026-img_2981.png)
+
+Other attendees’ nameplate text is covered with solid rectangles; all pixels outside the masks are unchanged relative to the decoded JPEGs. EXIF/GPS metadata is omitted from the public PNG copies. / 其他学员席牌姓名已用实色块遮挡，解码后遮挡区域外像素保持不变；公开 PNG 副本不携带 EXIF/GPS 元数据。
+
+[July 2026 on-site evidence index / 2026 年 7 月现场资料索引](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/state-grid/04-july2026-onsite-index.md)
+
 ### 3. June 2026 classroom and lecturer nameplate · 2026 年 6 月课堂与讲师席牌
 
 Original **IMG_2684.HEIC** capture metadata: **25 June 2026**. The photograph shows the **王照华** nameplate, course material and classroom. The nameplate carries **中国劳动关系学院** branding. Exact host/cohort remains to be documented; the visible school logo does not establish organizational affiliation. Applicant role: AI instructor and practical-guidance provider.
