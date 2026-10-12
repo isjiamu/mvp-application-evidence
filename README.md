@@ -1,2 +1,19 @@
-# mvp-application-evidence
-Public supporting materials for Jiamu Wang Zhaohua’s Microsoft MVP application.
+# Microsoft MVP Application · Public Supporting Materials
+
+Jiamu · Wang Zhaohua · [@isjiamu](https://github.com/isjiamu)
+
+This repository brings together activity narratives, supporting images and public source links for my Microsoft MVP application.
+
+Each activity has its own public supporting-materials post in [Issues](https://github.com/isjiamu/mvp-application-evidence/issues). Text and image copies are also stored in this repository.
+
+## Activities
+
+| No. | Activity | Materials |
+| --- | --- | --- |
+| 001 | ModelScope Cookbook · 魔搭紫皮书 | [Narrative, screenshots and contribution record](activities/001-modelscope-cookbook.md) |
+
+## Reading the materials
+
+Open an activity post or the linked Markdown page to read the narrative and view its images. Click an image to open its full-size version. Public materials can be read without a GitHub account; signing in is required only for interactions such as comments.
+
+Screenshots include their source pages and capture dates. New activities will be added as their materials are prepared.
