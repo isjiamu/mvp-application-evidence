@@ -2,7 +2,8 @@
 
 **金豆芽／自然萃：岗位 AI 应用培训与实操辅导**
 
-**Contributor / 申请人：** Wang Zhaohua (Jiamu) / 王照华（甲木）  
+**Contributor / 申请人：** Wang Zhaohua (Jiamu) / 王照华（甲木）
+
 **My role / 本人角色：** Enterprise trainer, course and case designer, and group-practice mentor / 企业培训讲师、课程与案例设计者、分组实操指导者。
 
 | Activity detail / 活动信息 | Evidence status / 依据与状态 |
