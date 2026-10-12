@@ -1,31 +1,16 @@
 {
   "prepared_at": "2026-10-12",
-  "status": "public_evidence_published_not_submitted_to_mvp",
+  "status": "public_evidence",
   "category_zh": "通过创建技术内容共享专业知识",
   "category_en": "Sharing technical expertise through content creation",
   "identity_zh": "AI 技术内容创作者与实践教育者｜甲木未来派主理人",
   "identity_en": "AI Technical Content Creator and Practical AI Educator | Creator of Jiamu Future",
-  "title_zh": "甲木未来派：Prompt、Agent 与企业 AI 应用的持续技术分享",
-  "title_en": "Jiamu Future: Practical AI Education through Prompt, Agent and Workflow Content",
-  "description_zh": "我以“甲木未来派”为主要创作品牌，面向开发者、企业业务人员和非技术学习者持续创作 AI 教程、案例与学习路线。我承担选题研究、案例设计、技术解释和内容撰写，将 Prompt、Agent、Skills 和工具调用与报账、业务调研、知识管理等具体任务连接起来，帮助读者从理解概念走向实际操作。代表内容包括 OpenClaw＋Kimi 助手搭建、飞书 CLI 企业场景实践及 AI 应用学习路线。所附公众号后台显示190篇原创内容、35,984总用户；知乎显示191个回答、57篇文章、1,096名关注者及7,864次赞同。据本人统计，公众号、小红书、知乎、腾讯新闻、得到、即刻和 X 等平台账号粉丝合计近10万，未作跨平台去重。我获腾讯新闻“2025美好内容同行者”荣誉，并获机工社“蒲公英奖·2025年度传播人”认可。我的核心贡献是持续把技术实践转化为有步骤、有案例、可跟做的学习资源，降低不同背景人群应用 AI 的门槛。",
-  "description_en": "As Jiamu Future, I create AI tutorials, case studies and learning paths for developers, business users and nontechnical learners. I research topics, design examples and write guides connecting prompts, agents, Skills and tool use to tasks such as expense reporting, research and knowledge management. Examples include OpenClaw/Kimi setup and Feishu CLI workflows. Attached screenshots show 190 original WeChat posts and 35,984 total users; Zhihu shows 191 answers, 57 articles, 1,096 followers and 7,864 upvotes. I report nearly 100,000 combined account followers across platforms, without deduplication. Recognition includes Tencent News' 2025 creator honor and China Machine Press' 2025 Dandelion Communicator Award. My contribution is turning technical practice into clear, actionable learning resources.",
-  "private_zh": "我的特点是把技术解释与真实岗位任务结合，以原创教程、案例拆解和学习路径持续提供可操作的帮助。历史公众号导出中，2025年10月13日至2026年4月23日发布的47篇原创文章记录阅读合计394,011次；新提供的后台截图另显示10篇已发布文章、合计80,104次阅读，其中8篇标记原创、合计72,803次。这些均为各自快照中的阅读次数，分别列示，不作去重人数或全年总量。近10万为本人统计的账号粉丝合计，不含课程学习人数；完整平台明细待补。新榜AI账号影响力周榜第25名为2025年4月履历记录的历史成绩；出版社荣誉与书籍条目交叉引用。与AI ERP及Microsoft Foundry的关联在于企业流程、Agent与工具调用的方法经验，直接产品实践仍以对应原文或演示为证。",
-  "private_en": "My strength is connecting technical explanations with workplace tasks through original tutorials and worked examples. A historical WeChat export records 47 original posts published from 13 Oct 2025 to 23 Apr 2026 with 394,011 reads. A newly supplied dashboard screenshot shows 10 published posts with 80,104 reads, including 8 marked original with 72,803 reads. These are separate snapshots, not unique readers or a full-year total. Nearly 100,000 is my reported sum of account followers, excluding course enrolments; a full platform breakdown is pending. Screenshot capture dates are not shown. Newrank No. 25 is a historical weekly result recorded in my April 2025 profile; publisher honors cross-reference my book contribution. Relevance to AI ERP and Microsoft Foundry lies in business workflow, agent and tool-use methods; direct product experience requires the corresponding tutorial or demo.",
-  "character_counts": {
-    "title_zh": 35,
-    "title_en": 79,
-    "description_zh": 410,
-    "description_en": 807,
-    "private_zh": 337,
-    "private_en": 898
-  },
   "metrics": {
     "all_platform_followers": {
       "display": "近10万 / nearly 100,000",
       "source": "applicant statement confirmed 2026-10-12",
       "metric": "account followers/subscribers only; course enrolments excluded",
-      "cross_platform_deduplicated": false,
-      "full_platform_breakdown_verified": false
+      "cross_platform_deduplicated": false
     },
     "wechat_account": {
       "original_content_count": 190,
@@ -148,13 +133,6 @@
       "image_editing": "none; exact original copy"
     }
   ],
-  "pending": [
-    "Remaining platform profile URLs and follower screenshots with a common measurement date",
-    "Full publication dates and URLs for nine recent posts; exact capture dates for the three new screenshots",
-    "Newrank exact ranking week and official full-list link",
-    "Public reader implementation feedback and author replies",
-    "Direct Microsoft product tutorial or demonstration evidence where applicable"
-  ],
-  "application_status": "Supporting evidence only; no MVP application field changed or submitted; original 24 activities not replaced",
-  "public_issue_url": "https://github.com/isjiamu/mvp-application-evidence/issues/9"
+  "public_issue_url": "https://github.com/isjiamu/mvp-application-evidence/issues/9",
+  "updated_at": "2026-10-12"
 }

@@ -14,7 +14,3 @@ Activity: Shanghai Jiao Tong University MBA lecture, 13 December 2025. The insti
 Public copies omit EXIF, GPS, XMP, IPTC and manufacturer metadata. Compressed JPEG scan data, color profiles and rendering markers are retained. Decoded image pixels and dimensions were compared and found identical. No generated editing, compositing, cropping or content replacement was used. Originals are retained locally, including copies of the temporary clipboard files.
 
 公开副本移除私人元数据，保留 JPEG 压缩图像数据、色彩配置与显示标记；已核对解码像素和尺寸一致。未进行生成式编辑、合成、裁切或内容替换。原件（包括剪贴板临时文件的本地副本）已留存。
-
-The 175-page course count and detailed Prompt/Agent syllabus currently come from the applicant's account. Once the teaching file is supplied, the count and example-page locators can be checked and added. Photos do not establish actual teaching duration, total attendance, fees or subsequent participant adoption. Those fields can be supplemented from delivery records. Private reviewer notes are not part of this public evidence page.
-
-175 页及详细 Prompt／Agent 内容目前依据本人说明；收到完整课件后再核对页数、提取示例原页。照片不用于推断实际时长、实到人数、收费性质或后续采用成果，相关字段可据交付记录补齐。给审核团队的私人说明不纳入公开页面。
