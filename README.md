@@ -12,6 +12,7 @@ Each activity has its own public supporting-materials post in [Issues](https://g
 | --- | --- | --- |
 | 001 | ModelScope Cookbook · 魔搭紫皮书 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/1) · [Repository copy](activities/001-modelscope-cookbook.md) |
 | 002 | Jindouya / Ziran Cui · 金豆芽／自然萃岗位 AI 培训 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/2) · [Repository copy](activities/002-jindouya-ziran-cui.md) |
+| 003 | Zhengye · 正晔网红财税场景诊断与技术辅导 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/3) · [Repository copy](activities/003-zhengye.md) |
 
 ## Reading the materials
 
