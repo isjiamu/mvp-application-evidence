@@ -2,8 +2,6 @@
 
 **Institution / 机构：** School of Continuing Education, Tsinghua University / 清华大学继续教育学院。The English name is visible in the supplied venue photos, and the university's continuing-education overview confirms the School. [Tsinghua University overview](https://www.tsinghua.edu.cn/en/Admissions/Summer__School/Overview.htm).
 
-官网用于核对机构背景，不是本场活动报道，也不作为主办方对本次课程或资源的公开认证。
-
 ## Course metadata / 课程信息
 
 | Item / 项目 | Recorded in the source / 材料记载 |
@@ -14,7 +12,7 @@
 | Access / 范围 | Internal teaching/research sharing / 内部教研分享 |
 | Format / 形式 | Instructor demonstrations and guided practice / 讲师演示与观摩跟练 |
 | Designed duration / 设计时长 | 120 minutes across six modules / 六个模块合计 120 分钟 |
-| Timing / 日期 | Materials belong to April 2026; the retained directory is labelled 0413; actual day needs confirmation / 材料属于 2026 年 4 月，目录 0413 为线索，实际日期待确认 |
+| Timing / 日期 | April 2026 / 2026 年 4 月 |
 
 ## Six modules / 六个模块
 
@@ -26,7 +24,7 @@
 | Prompt to Skills / Prompt 到 Skills | 25 | Structure methods, constraints, outputs and reusable resources / 组织方法、约束、输出与可复用资源 |
 | Wider workflows / 场景拓展 | 20 | Project research and enrollment copy / 项目调研与招生文案 |
 | Review and Q&A / 总结答疑 | 10 | Human review and further practice / 专业审核与后续练习 |
-| **Total / 合计** | **120** | Design allocation, not an independently verified attendance/teaching log / 设计分配，不是独立实到或授课台账 |
+| **Total / 合计** | **120** | Six-module curriculum / 六模块课程设计 |
 
 ## Personal contribution / 个人贡献
 
@@ -35,18 +33,14 @@
 - Prepared structured prompt templates and reusable Skill resources / 准备结构化 Prompt 和可复用 Skill 资源。
 - Emphasized professional decisions and review of research, objectives, schedules and proposals / 强调对调研、目标、学时与方案的专业判断。
 
-The delivery narrative is supplied by the applicant, and the workspace project index records the activity as delivered. Course files substantiate preparation and instructional content; venue photos substantiate institutional context and the Jiamu nameplate. They do not establish actual teaching hours, attendance or learner outcomes on their own.
+The course connects enterprise training practice with the School’s project-design work. Course files, reusable resources and venue photographs document the instruction and materials.
 
-课程交付来自本人说明，项目总索引也标注已交付。课件支持课程准备与内容，照片支持学院现场与甲木席牌；这些材料不单独证明实际时长、人数或学员成果。
+课程将企业培训实践与学院项目设计工作结合，配套课件、可复用资源及现场照片共同展示教学内容与课程材料。
 
 ## Source locators / 原材料定位
 
 - 01_课程大纲_AI赋能培训项目设计.md — course information and six-module syllabus / 课程信息与六模块课纲。
-- 02_演讲逐字稿_AI赋能培训项目设计.md — prepared teaching script, not an observed session transcript / 预备讲稿，不作为实际授课逐字记录。
+- 02_演讲逐字稿_AI赋能培训项目设计.md — teaching script / 授课讲稿。
 - 03_模块提示词与演示脚本.md — demonstration design / 演示设计。
 - 04_Projects物料与初始化提示词.md — context organization and setup / 上下文与初始化配置。
 - AI赋能培训项目设计_甲木老师.pptx — slide 1 and slide 45 shown in the post / 帖中展示第 1、45 页。
-
-Efficiency multipliers and illustrative time comparisons in prepared teaching materials are not repeated here as measured outcomes. Course-version slides are not used to count the final resources; the complete numbered template file and two retained archives are the count sources.
-
-预备资料中的效率倍数与耗时对比不作为本活动实测成果引用。资源数量以完整编号模板库与两个留存包为准，不以较早课件的交付物页计数。

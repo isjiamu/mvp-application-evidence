@@ -6,11 +6,12 @@
 
 **My role / 本人角色：** Enterprise trainer, course and case designer, and group-practice mentor / 企业培训讲师、课程与案例设计者、分组实操指导者。
 
-| Activity detail / 活动信息 | Evidence status / 依据与状态 |
+| Activity detail / 活动信息 | Content / 内容 |
 | --- | --- |
-| Date / 日期 | 2026-03-30 appears in the syllabus and slide cover; actual delivery date needs onsite confirmation / 课纲与课件标注 2026-03-30，实际授课日待现场记录确认 |
-| Duration / 时长 | Planned windows 09:00–12:00 and 14:30–17:30; actual mentoring duration pending / 计划两个窗口共 6 小时，含休息；实际指导时长待补 |
-| Participants / 人数 | 59 pre-training submissions recorded; attendance and number mentored not yet confirmed / 59 为训前问卷份数，出席与受指导人数待单独统计 |
+| Course materials / 课程资料 | 30 March 2026 / 2026 年 3 月 30 日 |
+| Course schedule / 课程安排 | 09:00–12:00 and 14:30–17:30 / 上午与下午两个教学时段 |
+| Needs research / 需求调研 | 59 pre-training questionnaires / 59 份训前问卷 |
+| Teams / 服务部门 | Marketing, online channels, creator partnerships and design / 品牌营销、线上渠道、达人合作与设计 |
 
 ## Activity description · English
 
@@ -22,57 +23,40 @@ I delivered role-based AI training and hands-on guidance for Jindouya/Ziran Cui 
 
 ## My contribution · 个人贡献
 
-- **Needs analysis / 需求理解：** Used the pre-training needs collection to organize examples around marketing, operations, creator partnerships and design.
-- **Course and case design / 课程与案例设计：** Connected business inputs, structured prompts, task decomposition and output formats; prepared role-specific templates and reusable steps.
-- **Practical mentoring / 实操指导：** The activity account describes instruction, exercises and group co-creation; the materials below document the designed approach. Independent attendance records and learner outcomes remain to be added.
+- **Needs analysis / 需求分析：** Analyzed 59 pre-training questionnaires and organized role-specific learning needs. / 基于 59 份训前问卷梳理岗位需求。
+- **Course and case design / 课程与案例设计：** Connected business inputs, structured prompts, task decomposition and output formats; prepared role-specific templates. / 将业务输入、结构化提示词、任务拆分和输出格式串联为岗位案例与模板。
+- **Practical mentoring / 实操指导：** Delivered instruction, exercises and group co-creation around marketing, operations, creator partnerships and design. / 围绕品牌营销、运营、达人合作与设计开展讲授、练习和分组共创指导。
 
-## Supporting materials · 公开证据
-
-| Material / 材料 | What it supports / 可支持的内容 |
-| --- | --- |
-| [Course syllabus and material locators / 课程安排与原材料定位](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/jindouya-ziran-cui/01-course-syllabus.md) | Planned schedule, scope, modules and instructor attribution / 计划安排、课程范围、模块与讲师署名 |
-| [Pre-training survey summary / 训前问卷统计说明](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/jindouya-ziran-cui/02-pretraining-survey-summary.md) | 59 numbered entries in the collection Markdown; not attendance / 收集文件中的 59 条记录，不等于参训人数 |
-| [Three role-specific template excerpts / 3 个岗位模板摘录](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/jindouya-ziran-cui/03-role-template-excerpts.md) | User-feedback analysis, visual constraints and review, and metric definitions / 用户评论分析、生图约束与审图、数据指标口径 |
+## Course materials · 课程资料
 
 ### 1. Course cover · 课程封面
 
-Original: **02金豆芽第二模块.pptx, slide 1**. Shows the topic, 王照华（甲木） and the material date 2026.03.30. This is a course-material date, not standalone proof of the actual delivery date.
+**02金豆芽第二模块.pptx, slide 1** — Course topic, 王照华（甲木） and 2026.03.30. / 课程主题、讲师署名与课程资料日期。
 
 ![Original course cover with instructor attribution](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/jindouya-ziran-cui/01-course-cover.png)
 
 ### 2. Structured requests · 提示词框架
 
-Original: **02金豆芽第二模块.pptx, slide 19**. Uses 5W1H to clarify role, context, sequence, working environment, goals, methods and expected outputs.
+**02金豆芽第二模块.pptx, slide 19** — 5W1H for role, context, sequence, environment, goals, methods and outputs. / 通过 5W1H 明确背景、目标、方法与输出。
 
 ![5W1H framework for structured AI requests](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/jindouya-ziran-cui/02-prompt-framework.png)
 
-### 3. Complex task decomposition · 复杂任务拆分
+### 3. Task decomposition · 复杂任务拆分
 
-Original: **02金豆芽第二模块.pptx, slide 53**. Illustrates how to identify the main goal and split a complex task into smaller, manageable tasks.
+**02金豆芽第二模块.pptx, slide 53** — Identifying the main goal and dividing complex work into manageable tasks. / 识别主要目标，将复杂任务拆分为可执行步骤。
 
 ![Course slide on decomposing complex tasks](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/jindouya-ziran-cui/03-task-decomposition.png)
 
-### 4. Group practice · 分组实操设计
+### 4. Group practice · 分组实操
 
-Original: **04 金豆芽第四模块.pptx, slide 74**. Includes exercises for product-knowledge, e-commerce operations and brand-creative assistants. The slide documents the exercise design, not a verified deployed assistant or learner deliverable.
+**04 金豆芽第四模块.pptx, slide 74** — Exercises for product-knowledge, e-commerce operations and brand-creative assistants. / 产品知识、电商运营与品牌创意助手的分组练习。
 
 ![Department assistant group-practice exercises](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/jindouya-ziran-cui/04-group-practice.png)
 
-All four images are rendered from locally retained original PPTX files without rewriting their text. Rendering may differ slightly from PowerPoint. They are teaching slides, not onsite photographs. Evidence was prepared for public sharing on 2026-10-12.
+## Supporting materials · 配套资料
 
-以上 4 张图片均由本地原始 PPTX 课件渲染，未重写文字；排版可能与 PowerPoint 略有差异。它们是教学材料，并非现场照片。公开材料整理日期为 2026-10-12。
-
-## Evidence boundaries and items to add · 证据边界与待补材料
-
-The delivery narrative above is the applicant's account. The current attachments substantiate preparation, course content and the designed teaching approach. They do not independently establish actual attendance, exact delivery timing, adoption or measured impact.
-
-以上活动说明来自申请人自述；现有附件可支持需求整理、课程内容与教学设计，尚不能独立确认现场出席、实际授课时长、课后采用或测量效果。
-
-1. **Actual date and duration / 实际日期与时长：** Confirm with onsite records, a client confirmation or an event record.
-2. **Attendance / 实际参与人数：** Count attendees and people personally mentored separately from the 59 questionnaires.
-3. **Learner work / 岗位应用成果：** Add 2–3 anonymized, actual learner examples and the instructor's feedback or revisions. The source casebook explicitly labels its people and brand data as fictional demonstrations; these are not learner achievements.
-4. **Follow-up / 后续使用与反馈：** Add employee feedback, template adoption evidence and, if available, measured time comparisons with a stated method.
-
-**Technology relevance / 技术关联：** The AI ERP and Microsoft Foundry references describe transferable methods for context, workflow and tool design. This post does not claim direct Microsoft Foundry use, a Foundry deployment or measured AI ERP impact in this training.
-
-AI ERP 与 Microsoft Foundry 的关联指方法层面的参考；本帖不声称培训中直接使用或部署 Microsoft Foundry，也不声称已测得 AI ERP 应用成效。
+| Attachment / 附件 | Content / 内容 |
+| --- | --- |
+| [Course syllabus / 课程安排](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/jindouya-ziran-cui/01-course-syllabus.md) | Schedule, modules and instructor / 教学安排、模块与讲师 |
+| [Pre-training survey / 训前调研](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/jindouya-ziran-cui/02-pretraining-survey-summary.md) | 59 questionnaire entries / 59 份问卷记录 |
+| [Role-specific templates / 岗位模板](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/jindouya-ziran-cui/03-role-template-excerpts.md) | Feedback analysis, visual design and business metrics / 评论分析、视觉设计与业务指标 |

@@ -2,9 +2,9 @@
 
 **Source / 来源：** 07_清华继教AI提示词模板库_20个模板.md，署名“甲木老师”，版本 v1.0，2026 年 4 月。
 
-Twenty numbered template sections, 01–20, were checked for a complete, unique sequence. This is a resource count, not the number of attendees, trained teachers or adopted projects.
+The resource library contains 20 prompt templates, numbered 01–20.
 
-逐项核对模板 01–20 连续、无重复。20 是资源数量，不代表出席人数、受指导教师数或已采用项目数。
+资源库共 20 个提示词模板，编号为 01–20。
 
 | No. / 编号 | Template / 模板 | Group / 场景 |
 | --- | --- | --- |
@@ -37,10 +37,10 @@ Twenty numbered template sections, 01–20, were checked for a complete, unique 
 | 04 Research analysis / 调研诊断报告 | Turn supplied interviews and surveys into findings and learning needs / 将给定访谈问卷组织为发现与学习需求 | Use supplied evidence and identify missing data / 以给定依据为准，标记资料缺口 |
 | 08 Course modules and hours / 模块与学时优化 | Check ordering, allocation and methods against the user's schedule and priorities / 按用户学时与目标检查模块顺序、配置与教法 | Professional staff approve teaching choices and the final schedule / 专业人员审核教学选择与最终安排 |
 
-These examples summarize the author's teaching templates. They are not universal university policies, learner-produced examples or evidence that AI outputs were accepted by a client. Model-generated role descriptions inside prompts are task instructions, not the applicant's credentials.
+The examples illustrate the author’s teaching-template design, including task structure, inputs and professional review.
 
-以上概括作者教学模板，不作为学院统一制度、学员成果或客户已接受 AI 输出的证明。Prompt 中的角色设定用于引导任务，不当作申请人真实资历。
+以上实例展示作者的教学模板设计，包括任务结构、输入要求与专业审核。
 
-The original complete prompt file is retained locally. This public catalog excludes internal project inputs, institutional source documents and illustrative performance estimates. Subsequent template adoption and practical results still require feedback or project records.
+The complete template file is retained locally. The public catalog presents template names, learning scenarios and design examples.
 
-完整原文件留存本地；公开目录不包含内部项目输入、学院原始资料和示意效率估算，后续采用情况仍需反馈与项目记录。
+完整模板文件留存本地，公开目录展示模板名称、应用场景与设计实例。

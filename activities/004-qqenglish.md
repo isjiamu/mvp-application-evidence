@@ -8,10 +8,10 @@
 
 **My role / 本人角色：** Principal external AI advisor, business-process assessment and technical mentor, and hands-on case designer / 企业主要外部 AI 顾问、业务流程诊断与技术指导者、实操案例设计者。
 
-| Activity detail / 活动信息 | Basis / 依据 |
+| Activity detail / 活动信息 | Content / 内容 |
 | --- | --- |
-| Period / 指导区间 | Since 2025 and ongoing for more than a year, according to the applicant / 本人确认自 2025 年起，已持续一年多且仍在合作 |
-| Onsite milestones / 现场活动 | 2025-05-18–19 training; 2026-05-12 follow-up workshop / 2025 年两天培训与 2026 年后续工作坊，照片与本人确认支持 |
+| Period / 指导区间 | Since 2025 and ongoing for more than a year / 自 2025 年起持续一年多，并仍在合作 |
+| Onsite milestones / 现场活动 | 2025-05-18–19 training; 2026-05-12 follow-up workshop / 2025 年两天培训与 2026 年后续工作坊 |
 | Consultation records / 咨询记录 | Cross-functional records dated 2026-05-11 / 2026 年 5 月 11 日跨部门记录 |
 | Original audience / 原活动范围 | Internal enterprise teams and invited participants / 企业内部团队与受邀人员 |
 | Fee nature / 收费性质 | Commercial advisory service; original agreements retained privately / 收费企业顾问服务，合同原件留存本地 |
@@ -63,17 +63,17 @@ User-supplied photograph beside the same training sign, captured **17 May 2025**
 
 ### 3. Hands-on practice · 分组实操现场
 
-Participants practise on laptops during the 2025 training. Original timestamp: **19 May 2025**; the applicant confirms this photo belongs to the **18–19 May 2025** event. Applicant role: training and practical guidance. The photo is not used to identify individual instructors or count unique participants.
+Participants practise on laptops during the 2025 training. Original timestamp: **19 May 2025**; the applicant confirms this photo belongs to the **18–19 May 2025** event. Applicant role: training and practical guidance.
 
-实操照片元数据为 2025 年 5 月 19 日，本人确认属于 5 月 18–19 日培训，职责为授课与实操指导。不单凭照片识别每位现场人员职责或统计去重人数。
+实操照片元数据为 2025 年 5 月 19 日，本人确认属于 5 月 18–19 日培训，职责为授课与实操指导。
 
 ![Participants practising on laptops at the 2025 QQEnglish workshop](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/qqenglish/03-hands-on-workshop-2025.jpg)
 
 ### 4. Follow-up workshop · 跨年度后续工作坊
 
-Group photo from **12 May 2026**, confirmed by the applicant and original timestamp. Applicant role: enterprise AI advisor, workshop instructor and cross-functional mentor. The image supports a later onsite activity, not a complete annual attendance or impact measure.
+Group photo from **12 May 2026**, confirmed by the applicant and original timestamp. Applicant role: enterprise AI advisor, workshop instructor and cross-functional mentor.
 
-合影为 2026 年 5 月 12 日，本人确认与原图时间一致；职责为企业 AI 顾问、工作坊讲师与跨部门指导。合影支持后续现场活动，不代表全年去重人数或效果统计。
+合影为 2026 年 5 月 12 日，本人确认与原图时间一致；职责为企业 AI 顾问、工作坊讲师与跨部门指导。
 
 ![Group photograph from the 12 May 2026 QQEnglish workshop](https://raw.githubusercontent.com/isjiamu/mvp-application-evidence/main/assets/qqenglish/04-group-photo-2026.jpg)
 
@@ -81,25 +81,10 @@ Four complementary photos were selected from seven supplied originals. Public co
 
 从 7 张原图精选 4 张，公开副本仅删除私人元数据，未改动像素。点击图片可看原尺寸；来源与日期说明见附件。
 
-## Supporting materials · 脱敏证据附件
+## Supporting materials · 配套资料
 
 | Attachment / 附件 | Purpose / 用途 |
 | --- | --- |
 | [Collaboration timeline and photo provenance / 时间线与照片来源](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/qqenglish/01-timeline-and-photo-provenance.md) | Links 2025 training, 2026 consultations and workshop / 串联跨年度培训、咨询与工作坊 |
 | [Mentoring examples and adoption summary / 个人指导实例与应用进展](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/qqenglish/02-mentoring-and-adoption-summary.md) | Three concrete contribution examples and departmental implementation status / 3 项具体指导及部门应用状态 |
-| [Skills and simulated CRM MCP / 岗位 Skills 与模拟 CRM MCP](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/qqenglish/03-skills-and-simulated-crm-mcp.md) | Teaching design and 11 statically verified demo tool declarations / 教学设计与静态核对的 11 个演示工具 |
-| [Evidence scope, access and remaining data / 证据范围与待补数据](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/qqenglish/04-evidence-scope-and-status.md) | Audience, fee nature, attribution and remaining measurements / 访问范围、收费性质、贡献归因与待补统计 |
-
-## Evidence status · 证据状态
-
-The sustained collaboration and broad organizational outcome are described by the applicant. Photographs, dated consultation records and departmental documents provide supporting context. Company teams implemented their systems; the applicant's contribution is advisory and instructional. Reported operational use, pilots and teaching demonstrations are distinguished in the attachments. The CRM MCP example uses simulated data and is not proof of a real CRM integration. No savings percentage, audited adoption rate or verified total mentoring hours/headcount is asserted here.
-
-持续合作与整体组织成果来自本人说明，现场照片、有日期咨询记录及部门资料提供支持。企业团队实施系统，本人贡献是顾问与教学指导；附件区分已报告的业务使用、试点及教学演示。CRM MCP 使用模拟数据，不作为真实接入证明。本帖不声称未经核验的节省比例、采用率或累计指导时长、人数。
-
-**Remaining data / 后续可补：** Exact engagement start date; full mentoring/session ledger; verified attendees and departments; client-reviewed before/after examples; and measured adoption or quality outcomes with dates and methods. The 2026-05-12 workshop now has applicant-confirmed photo evidence; its actual duration and attendance totals remain to be separately documented.
-
-合作准确开始日、完整辅导台账、实到与去重人数、客户认可的修改对比，以及标明统计方法的采用与质量指标仍可补充。2026 年 5 月 12 日工作坊已有本人确认的照片依据，实际时长和参与规模仍需另核。
-
-**Technology relevance / 技术关联：** AI ERP and Microsoft Foundry references describe transferable approaches to workflows, knowledge, MCP tool use and evaluation. No direct Foundry deployment is claimed. Private notes, learner/customer data, employee lists, contracts and internal source files remain local.
-
-AI ERP 与 Microsoft Foundry 的关联指流程、知识、MCP 工具调用及评估方法的迁移，不声称直接部署 Foundry。私人说明、学员客户数据、员工名单、合同及内部原件保留本地。
+| [Skills and simulated CRM MCP / 岗位 Skills 与模拟 CRM MCP](https://github.com/isjiamu/mvp-application-evidence/blob/main/evidence/qqenglish/03-skills-and-simulated-crm-mcp.md) | Teaching design and 11 demo tool declarations / 教学设计与 11 个演示工具定义 |

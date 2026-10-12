@@ -20,7 +20,7 @@ We organized the guide around that journey:
 
 I helped co-create the cookbook and also contributed to its reading experience, improving [navigation, search and the homepage](https://github.com/modelscope/ms-cookbook/commit/1786176cc7234b1c279ee9c09d7130e20042189b). For a learning resource, helping someone find the next relevant step is part of making the knowledge usable.
 
-One point I especially appreciate in our material is that an experiment does not have to produce a perfect result to be worth documenting. A training run may improve output formatting without improving answer accuracy. Keeping that result helps readers understand what changed and what still needs work.
+The guide documents experimental results across output formatting and answer accuracy, helping readers compare model behavior, interpret evaluation results and choose their next improvement step.
 
 Our aim is to help developers move from collecting model links to building applications they can reproduce, evaluate and improve.
 

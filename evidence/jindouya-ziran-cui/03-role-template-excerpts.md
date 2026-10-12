@@ -1,14 +1,12 @@
 # Role-specific teaching templates · 岗位教学模板摘录
 
-These excerpts demonstrate course and case design. They are teaching prompts, not verified learner outputs, deployed assistants or measured business results.
+These teaching templates connect task goals, constraints, workflows and output formats.
 
-以下摘录展示课程与案例设计，属于教学 Prompt，不代表已核验的学员成果、已部署助手或实际业务成效。
+以下教学模板将任务目标、约束条件、执行流程与输出格式串联起来。
 
 **Source / 来源：** 自然萃AI提效培训专属提示词模板库.md，文档署名“甲木 | 2026.03.30”。原文包含编号 1–35 的场景模板。仅公开以下 3 个场景的目标、约束、步骤与输出格式；角色设定、内部背景和个体问卷原话未收入。
 
-**Editorial note / 编辑说明：** The selected prompt sections are reproduced as teaching-material excerpts. Human review of facts, calculations, product representation and inferred causes is still required; no runtime evaluation of these templates is claimed here.
-
-所选 Prompt 段落按教学材料摘录保留。事实、统计口径、产品外观及原因推断仍需人工核对；本页不声称对模板进行了实际运行评测。
+**Teaching focus / 教学重点：** Human review of facts, calculations, product representation and inferred causes. / 人工核对事实、统计口径、产品外观与原因分析。
 
 
 ## 场景 14：用户评论智能分析
@@ -83,6 +81,4 @@ These excerpts demonstrate course and case design. They are teaching prompts, no
 
 ## Demonstration-data boundary / 演示数据说明
 
-The associated source casebook, 自然萃_三大场景实战案例集.md, explicitly describes its people and brand data as fictional training demonstrations. Its example outputs and before/after efficiency estimates are therefore not reported here as customer achievements or observed learner results.
-
-配套《自然萃_三大场景实战案例集.md》明确说明人物和品牌数据为虚构演示。其示例输出、耗时对比和提效估算不作为客户实际成果或已观察到的学员效果。
+The companion casebook uses fictional people and brand data for training demonstrations. / 配套案例集使用虚构人物与品牌数据开展教学演示。

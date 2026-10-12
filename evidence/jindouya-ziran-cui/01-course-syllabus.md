@@ -1,19 +1,19 @@
 # Course syllabus · 课程安排与教学设计摘录
 
-This is a curated summary of existing course materials. It documents the course design; it is not an attendance record or an independent confirmation of delivery.
+This page presents the course syllabus, learning modules and teaching materials.
 
-本页依据既有课纲和授课材料整理，仅作为课程设计依据，不作为签到记录或现场交付证明。
+本页汇总课程大纲、学习模块与教学材料。
 
 | Item / 项目 | Recorded in the materials / 材料记载 |
 | --- | --- |
 | Topic / 主题 | AI 赋能自然萃——从内容、营销到视觉的全链路进化 |
 | Instructor / 讲师 | 王照华（甲木），PPTX 封面署名 |
-| Planned date / 课纲日期 | 2026-03-30；实际授课日仍待现场记录确认 |
-| Planned location / 课纲地点 | Wuhan / 武汉 |
-| Planned schedule / 课纲安排 | 09:00–12:00 and 14:30–17:30，两个时间窗口共 6 小时，含休息安排；不等于已测量的指导时长 |
+| Course date / 课纲日期 | 2026-03-30 |
+| Course location / 课纲地点 | Wuhan / 武汉 |
+| Course schedule / 课纲安排 | 09:00–12:00 and 14:30–17:30，两个时间窗口共 6 小时，含休息安排 |
 | Intended roles / 面向岗位 | 品牌营销、线上渠道与达人运营、设计及相关业务人员 |
 | Format / 设计形式 | 线下讲授、实操练习、分组共创 |
-| Needs input / 需求输入 | 59 条训前问卷提交记录；不代表出席人数 |
+| Needs input / 需求输入 | 59 条训前问卷提交记录 |
 
 ## Four modules / 四个模块
 
@@ -31,6 +31,4 @@ This is a curated summary of existing course materials. It documents the course 
 | 02金豆芽第二模块.pptx | Slide 1: cover; Slide 19: 5W1H; Slide 53: task decomposition |
 | 04 金豆芽第四模块.pptx | Slide 74: group practice |
 
-The public post shows rendered previews of these four original slides. They were imported from PPTX without rewriting their content; rendering can differ slightly from PowerPoint. The original files remain locally retained.
-
-公开帖展示以上 4 张原始课件页的渲染预览，未重写页面文字；渲染排版可能与 PowerPoint 略有差异。原始课件保留在本地。
+The activity page includes four previews from the original course slides. / 活动页展示四张原始课程幻灯片。

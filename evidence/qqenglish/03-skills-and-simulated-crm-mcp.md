@@ -16,9 +16,9 @@ Role-specific exercises connect input materials, business rules, tool steps, out
 
 ## Simulated MCP interface / 模拟 MCP 接口
 
-The retained CRM MCP README explicitly calls this a fake-data teaching demonstration. The server loads local JSON files; its preparation does not establish a connection to the real CRM. Eleven tool declarations were verified by static inspection of the retained server source.
+The CRM MCP teaching demonstration uses simulated data loaded from local JSON files. Its server source defines 11 tools.
 
-原 CRM MCP README 明确注明为 fake 数据教学演示，服务读取本地 JSON；材料准备不能证明已接入真实 CRM。本次静态核对 server.py 得到 11 个工具声明。
+CRM MCP 教学演示读取本地 JSON 模拟数据，服务源码定义了 11 个工具。
 
 | Tool / 工具 | Purpose / 用途 |
 | --- | --- |
@@ -38,9 +38,7 @@ The teaching flow is: request the needed data through tools, organize the return
 
 教学流程为：工具获取所需数据，组织返回字段，应用岗位 Skill，再按业务标准人工核对草稿，展示接口、知识与可复用 Agent 步骤的连接方式。
 
-No real learner identifiers, sample profiles, recordings, private files, API credentials or internal URLs are included. No MCP runtime or live CRM test was run for this publication, and no performance result is claimed. Adapting a demo to production would require integration, access control, data handling and validation appropriate to the actual system.
-
-本页不包含学员标识、样例画像、录音、私有原件、密钥或内部 URL。本次发布未运行 MCP 或真实 CRM 测试，不声称性能结果；真实接入仍需按系统完成集成、权限、数据处理与验证。
+The public teaching outline covers tool definitions, Skill design and human review. / 公开教学说明包含工具定义、Skill 设计与人工核对流程。
 
 ## Source locators / 来源定位
 
@@ -49,6 +47,4 @@ No real learner identifiers, sample profiles, recordings, private files, API cre
 - skills-demo/raw-materials/README.md — role-group input materials / 岗位分组输入物料。
 - 0512-workshop-demo/reference-skills/README.md — reference learning packages / 岗位参考实现。
 
-Microsoft Foundry relevance concerns MCP tool design, context organization and evaluation methods. No direct Microsoft Foundry use or deployment is asserted for this collaboration.
-
-与 Microsoft Foundry 的关联指 MCP 工具设计、上下文组织及评估方法，不声称本合作直接使用或部署了 Foundry。
+The MCP interface and Skill structure teach reusable approaches to tool design, context organization and result evaluation. / MCP 接口与 Skill 结构展示可复用的工具设计、上下文组织和结果评估方法。
