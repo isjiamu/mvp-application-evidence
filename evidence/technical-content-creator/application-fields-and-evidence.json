@@ -1,6 +1,6 @@
 {
   "prepared_at": "2026-10-12",
-  "status": "public_evidence_prepared_pending_publication",
+  "status": "public_evidence_published_not_submitted_to_mvp",
   "category_zh": "通过创建技术内容共享专业知识",
   "category_en": "Sharing technical expertise through content creation",
   "identity_zh": "AI 技术内容创作者与实践教育者｜甲木未来派主理人",
@@ -155,5 +155,6 @@
     "Public reader implementation feedback and author replies",
     "Direct Microsoft product tutorial or demonstration evidence where applicable"
   ],
-  "application_status": "Supporting evidence only; no MVP application field changed or submitted; original 24 activities not replaced"
+  "application_status": "Supporting evidence only; no MVP application field changed or submitted; original 24 activities not replaced",
+  "public_issue_url": "https://github.com/isjiamu/mvp-application-evidence/issues/9"
 }

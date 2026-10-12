@@ -18,6 +18,7 @@ Each activity has its own public supporting-materials post in [Issues](https://g
 | 006 | Claudian 开源社区 · Claude Code 认证排查与解决经验分享 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/6) · [Repository copy](activities/006-claudian-authentication.md) |
 | 007 | State Grid Organizations · 国家电网体系持续 AI 培训与指导 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/7) · [Repository copy](activities/006-state-grid.md) |
 | 008 | Shanghai Jiao Tong University MBA · 上海交大 Prompt 到 Agent 分享 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/8) · [Repository copy](activities/008-shanghai-jiao-tong-mba.md) |
+| 009 | Jiamu Future · 甲木未来派持续 AI 技术内容创作与实践教育 | [Public activity post](https://github.com/isjiamu/mvp-application-evidence/issues/9) · [Repository copy](activities/009-technical-content-creator.md) |
 
 ## Reading the materials
 
