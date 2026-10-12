@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "activity_date": "2026-02-20",
+  "evidence_capture_date": "2026-10-12",
+  "runtime_retest_performed": false,
+  "screenshots": [
+    {
+      "file": "assets/claudian-authentication/01-my-problem-report.png",
+      "source_url": "https://github.com/YishenTu/claudian/issues/279#issuecomment-3931817199",
+      "captured_at_utc": "2026-10-12T06:19:57.954Z",
+      "page_title": "使用全局环境的cc 提示/login 使用poe的api发现报错 · Issue #279 · YishenTu/claudian",
+      "capture_method": "Unmodified screenshot of the original GitHub comment container in Google Chrome via Playwright.",
+      "comment_author": "isjiamu",
+      "original_comment_created_at_utc": "2026-02-20T05:51:32.000Z",
+      "width_px": 1365,
+      "height_px": 296,
+      "sha256": "5a5fc3cde51761f4c9dab06186f9ad32c70f3d6cecb04f7e32e071482ee737af",
+      "byte_size": 73659,
+      "modifications": "None; captured comment region only."
+    },
+    {
+      "file": "assets/claudian-authentication/02-my-resolution.png",
+      "source_url": "https://github.com/YishenTu/claudian/issues/279#issuecomment-3932343860",
+      "captured_at_utc": "2026-10-12T06:20:01.250Z",
+      "page_title": "使用全局环境的cc 提示/login 使用poe的api发现报错 · Issue #279 · YishenTu/claudian",
+      "capture_method": "Unmodified screenshot of the original GitHub comment container in Google Chrome via Playwright.",
+      "comment_author": "isjiamu",
+      "original_comment_created_at_utc": "2026-02-20T08:17:03.000Z",
+      "width_px": 1365,
+      "height_px": 359,
+      "sha256": "091e94c084369ac185088e135028ac6bd1c3f72be7a33b2a21dc21dfc279b2cc",
+      "byte_size": 36065,
+      "modifications": "None; captured comment region only."
+    },
+    {
+      "file": "assets/claudian-authentication/03-credited-community-advice.png",
+      "source_url": "https://github.com/YishenTu/claudian/issues/90#issuecomment-3748183460",
+      "captured_at_utc": "2026-10-12T06:20:08.150Z",
+      "page_title": "和claude code的登录不同步嘛？ · Issue #90 · YishenTu/claudian",
+      "capture_method": "Unmodified screenshot of the original GitHub comment container in Google Chrome via Playwright.",
+      "comment_author": "Mrxyx",
+      "original_comment_created_at_utc": "2026-01-14T07:26:24.000Z",
+      "width_px": 1365,
+      "height_px": 708,
+      "sha256": "2bdb98978836a23410e5f2f1368c27855d3cf48093ff480f5b00b30d864e0df9",
+      "byte_size": 122813,
+      "modifications": "None; captured comment region only."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "retrieved_at_utc": "2026-10-12T06:17:14.513068+00:00",
+  "purpose": "Public source excerpts supporting one troubleshooting contribution; not an independent runtime test.",
+  "records": [
+    {
+      "html_url": "https://github.com/YishenTu/claudian/issues/279",
+      "title": "使用全局环境的cc 提示/login 使用poe的api发现报错",
+      "created_at": "2026-02-17T16:01:46Z",
+      "updated_at": "2026-03-09T02:02:59Z",
+      "closed_at": "2026-03-09T02:02:59Z",
+      "state": "closed",
+      "body": "<img width=\"732\" height=\"906\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e8bbba08-e9de-4d38-a3f9-575eccc53de5\" />\n\n<img width=\"730\" height=\"464\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/052a6467-f779-455c-9171-004b5cad602b\" />\n\n怎么可以不用设置直接使用本地环境的cc啊？",
+      "author": "kakarrot-dev",
+      "api_url": "https://api.github.com/repos/YishenTu/claudian/issues/279"
+    },
+    {
+      "html_url": "https://github.com/YishenTu/claudian/issues/279#issuecomment-3931817199",
+      "created_at": "2026-02-20T05:51:32Z",
+      "updated_at": "2026-02-20T06:03:55Z",
+      "body": "> 在插件设置里面填入环境变量\n\nCC里面配置MAX登录之后能用了，但是在claudian中提示Failed to authenticate. API Error: 403 {\"error\":{\"type\":\"forbidden\",\"message\":\"Request not allowed\"}}，已经重新登出，登录后还是不行。 CLI路径应该也没问题。\n\n如何解决？是需要重新设置变量？但是这种max登录的 是不是能直接获取到？🤔 @YishenTu ",
+      "author": "isjiamu",
+      "api_url": "https://api.github.com/repos/YishenTu/claudian/issues/comments/3931817199"
+    },
+    {
+      "html_url": "https://github.com/YishenTu/claudian/issues/279#issuecomment-3932343860",
+      "created_at": "2026-02-20T08:17:03Z",
+      "updated_at": "2026-02-20T08:17:03Z",
+      "body": "OK，我解决了 https://github.com/YishenTu/claudian/issues/90#issuecomment-3748183460\n就是因为代理环境变量的原因，需要在claudian中同样加上\n```\n•\tHTTP_PROXY=...\n•\tHTTPS_PROXY=...\n•\tALL_PROXY=...\n```",
+      "author": "isjiamu",
+      "api_url": "https://api.github.com/repos/YishenTu/claudian/issues/comments/3932343860"
+    },
+    {
+      "html_url": "https://github.com/YishenTu/claudian/issues/90#issuecomment-3748183460",
+      "created_at": "2026-01-14T07:26:24Z",
+      "updated_at": "2026-01-14T07:36:25Z",
+      "body": "> 在terminal里claude 已经是登录好并且可使用的。\n> \n> 在claudian里一直提示API Error: 403 {\"error\":{\"type\":\"forbidden\",\"message\":\"Request not allowed\"}} · Please run /login\n\nI ran into the same 403 error. In my case it was caused by proxy environment variables not being inherited when Obsidian launches the plugin.\n\nIn my terminal I had HTTP_PROXY / HTTPS_PROXY set, so claude worked, but Obsidian/Claudian didn’t get those env vars and the request was blocked by the network/gateway, returning 403.\n\nFix:\n\t1.\tIn Claudian settings → Advanced  → Claude CLI path, I manually set it to the exact claude executable that works in my terminal.\n\t2.\tIn Claudian settings → Environment → Custom variables, I added the same proxy variables I use in my terminal, e.g.:\n\n\t•\tHTTP_PROXY=...\n\t•\tHTTPS_PROXY=...\n\t•\tALL_PROXY=...\n\nAfter setting both the CLI path and the proxy env vars, the 403 error went away.",
+      "author": "Mrxyx",
+      "api_url": "https://api.github.com/repos/YishenTu/claudian/issues/comments/3748183460"
+    }
+  ]
+}
