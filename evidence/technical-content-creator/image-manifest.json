@@ -1,0 +1,77 @@
+{
+  "prepared_at": "2026-10-12",
+  "images": [
+    {
+      "file": "assets/technical-content-creator/wechat-account-overview.png",
+      "alt": "WeChat account dashboard: 35,984 total users and 190 original posts",
+      "provenance": "Applicant-supplied screenshot received 2026-10-12; capture date not shown",
+      "source_url": null,
+      "bytes": 89145,
+      "sha256": "7118a64593cdda5f99bf6a5d8e53046568903174a317672cb61f8b5cb6e4fadc",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/wechat-recent-articles.png",
+      "alt": "WeChat dashboard: ten published articles and their recorded reads",
+      "provenance": "Applicant-supplied screenshot received 2026-10-12; capture date and year not shown",
+      "source_url": null,
+      "bytes": 1233134,
+      "sha256": "2cec55fb32d4d44f74b01ea1ef66fbf0b9a937499b22771a5e80a8c22e77c90e",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/zhihu-profile-and-achievements.png",
+      "alt": "Zhihu profile: 1,096 followers, 191 answers, 57 articles and engagement totals",
+      "provenance": "Applicant-supplied screenshot received 2026-10-12; capture date not shown",
+      "source_url": "https://www.zhihu.com/people/zuiyn",
+      "bytes": 558013,
+      "sha256": "cd6e72fe03ee62eedbb5236172d412d514f7fa5f655a33a8bd06e9c33146988d",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/tencent-news-2025-creator-honor.jpg",
+      "alt": "Tencent News 2025 creator honor awarded to Jiamu Future",
+      "provenance": "Original image preserved from applicant resume; plaque year 2025; December recorded in resume",
+      "source_url": "https://metaturing.feishu.cn/docx/QJ9qdUgaIosTiqx4e5Rcs1AFnZ4#J8RUdBGkgo0YHpx4f4kcKbxXnnz",
+      "bytes": 191394,
+      "sha256": "180f852cbee2774cf7732f45571471a87a01d779122b4058e62a25c80b6b0caa",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/newrank-weekly-rank-25.jpg",
+      "alt": "Newrank AI Account Influence Weekly Ranking: Jiamu Future at No. 25",
+      "provenance": "Historical screenshot preserved from applicant resume; April 2025 from resume; exact week not shown",
+      "source_url": "https://metaturing.feishu.cn/docx/QJ9qdUgaIosTiqx4e5Rcs1AFnZ4#doxcnjgwGjzOmNl818OquDanI6f",
+      "bytes": 363054,
+      "sha256": "069105bde30485e67a51a3c779182f8759265791f1e6c8840d9872cb44ddbd5c",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/cmp-2025-dandelion-communicator.jpg",
+      "alt": "China Machine Press: Dandelion Award, 2025 Communicator, Wang Zhaohua",
+      "provenance": "Applicant-supplied award photograph; award year 2025; exact presentation date not shown",
+      "source_url": null,
+      "bytes": 97592,
+      "sha256": "f36fcfa2c731ba26a90869b8f5bda2d47a1461d3afb6fc4aff70840f65ebc1f2",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/cmp-2025-emerging-author.jpg",
+      "alt": "China Machine Press: 2025 Emerging Author recognition for Wang Zhaohua",
+      "provenance": "Applicant-supplied award photograph; certificate dated January 2026; linked to Agent Design Guide",
+      "source_url": null,
+      "bytes": 126477,
+      "sha256": "8c634b615abcbeb69cfb9fd9230904066d2574b41f703fa3a8ca6c9d02e806a7",
+      "image_editing": "none; exact original copy"
+    },
+    {
+      "file": "assets/technical-content-creator/cmp-2025-jinma-bestselling-book.jpg",
+      "alt": "China Machine Press: 2025 Jinma Award for Agent Design Guide",
+      "provenance": "Applicant-supplied award photograph; certificate dated January 2026; award recognizes the book",
+      "source_url": null,
+      "bytes": 125238,
+      "sha256": "119a741d29c70e5e0bca530f8e1611fb1a1152f3860799780499ea2796701224",
+      "image_editing": "none; exact original copy"
+    }
+  ]
+}
